@@ -8,6 +8,7 @@ Data Collection: We have used the Heart Failure clinical records dataset from UC
 
 Different variables present in the dataset are listed below:
 
+
 ● age: age of the patient (years)
 ● anaemia: decrease of red blood cells or hemoglobin (boolean)
 ● high blood pressure: if the patient has hypertension (boolean)
